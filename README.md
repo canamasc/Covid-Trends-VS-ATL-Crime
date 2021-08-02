@@ -12,7 +12,7 @@ Data cleaning (NYC_Data_Cleaning.ipynb) uses files:
 - NYC Crime Dataset4 CSV.csv
 - NYC Crime Dataset5 CSV.csv
 
-Concatenates all crime data sets, gets rid of unneeded columns, trims date ranges in both sources to match, standardizes date format and merges the two sources on DATE. 
+Concatenates all crime data sets, gets rid of unneeded columns, trims date ranges in both sources to match, standardizes date format and merges the two sources on DATE. Clean data output to merged_NYC_data.csv.
 
 Pandas / Matplotlib / Google API work (NYC_Crime_COVID.ipynb):
 
